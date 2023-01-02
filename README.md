@@ -1,7 +1,10 @@
 ### Hi there 👋
 
-I'm a software engineer at [LSIR (EPFL)](https://www.epfl.ch/labs/lsir/)
-currently working on [MoZuMa](https://github.com/mozuma/mozuma).
+I'm a software engineer at [LSIR (EPFL)](https://www.epfl.ch/labs/lsir/).
+
+Here is a list of my recent projects:
+- [MoZuMa](https://github.com/mozuma/mozuma): A Model Zoo to search videos, images or text with pre-trained Deep Learning models
+- [TwCompose](https://github.com/smassonnet/twcompose): A simple CLI to manage Twitter stream collection
 
 <!--
 **smassonnet/smassonnet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
